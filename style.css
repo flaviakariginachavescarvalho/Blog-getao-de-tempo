@@ -1,0 +1,25 @@
+#menu, ul, li, a{
+	width: 50px;
+	height: 100px;
+	list-style: none;
+	display: inline;
+	padding-left: 10px;
+
+	font-size: 20px;
+	font-family: ;
+	text-decoration: none;
+	color: black;
+	background-color: white;
+}
+img{
+	width: 1366px;
+	height: 768px;
+	flex-direction: column;
+}
+h1, p{
+	font-family: Pacifico;
+	text-align: center;
+}
+body,bgcolor{
+	flex-direction: column;
+}
